@@ -10,7 +10,7 @@ that solve real-world problems.
 
 <h2>👨‍💻 Data Scientist Projects</h2>
 <ul>
-  <li>📊 Data Cleaning & Exploratory Data Analysis (EDA)</li>
+  <li>📊 Data Cleaning & Exploratory Data Analysis (EDA)</li> <a href="https://github.com/Gitau-lucy/Exploratory-Data-Analysis-EDA-">EDA Project</a>  
   <li>🤖 Machine Learning Models (Regression & Classification)</li>
   <li>📈 Statistical Analysis & Hypothesis Testing</li>
   <li>🧠 Natural Language Processing (CountVectorizer, TF-IDF)</li>
